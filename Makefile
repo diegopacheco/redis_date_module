@@ -49,3 +49,6 @@ docker_push: docker
 
 run:
 	docker run -p 6379:6379 --rm diegopacheco/redis_date_module
+
+redis_test:
+	echo "dp.DATE" | redis-cli
