@@ -1,3 +1,6 @@
 redis_date_module.so
 src/date.o
 build/
+.cproject
+.project
+.settings/
