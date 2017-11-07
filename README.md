@@ -37,4 +37,4 @@ ft.DATE : Returns the current date in String. I.e: Tue Nov  7 20:32:27 2017.
 
 Cheers, <BR/>
 Diego Pacheco <BR/>
-[diegopacheco.github.io](diegopacheco.github.io)
+[diegopacheco.github.io](http://diegopacheco.github.io)
