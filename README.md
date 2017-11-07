@@ -2,6 +2,8 @@
 
 Simple Redis_Module for Date. <BR/>
 
+## Usage
+
 ### Build and Bake
 ```bash
 make
@@ -23,11 +25,11 @@ or...
 make redis_test
 ```
 
-### Commands
+## Commands
 
 ft.DATE : Returns the current date in String. I.e: Tue Nov  7 20:32:27 2017.
 
-### Dependencies
+## Dependencies
 
 * docker
 * redis-cli
